@@ -1,0 +1,4 @@
+not Logged user => {Switch Signup and Signin screens => StackNavigator}
+logged user => {Switch TrackListScreen and TrackDetailScreen => StackNavigator,TrackListScreen , TrackCreatescreen and Account screen => bottom tab navigator}
+switch between logged and not logged => {Switch navigator}
+
